@@ -1,0 +1,158 @@
+[
+  {
+    "name": "alternative",
+    "path": "/alternative",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\alternative.vue",
+    "chunkName": "pages/alternative"
+  },
+  {
+    "name": "calendar",
+    "path": "/calendar",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\calendar.vue",
+    "chunkName": "pages/calendar"
+  },
+  {
+    "name": "charts",
+    "path": "/charts",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\charts.vue",
+    "chunkName": "pages/charts"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard"
+  },
+  {
+    "name": "lock",
+    "path": "/lock",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\lock.vue",
+    "chunkName": "pages/lock"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "pricing",
+    "path": "/pricing",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\pricing.vue",
+    "chunkName": "pages/pricing"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\register.vue",
+    "chunkName": "pages/register"
+  },
+  {
+    "name": "widgets",
+    "path": "/widgets",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\widgets.vue",
+    "chunkName": "pages/widgets"
+  },
+  {
+    "name": "components-buttons",
+    "path": "/components/buttons",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\components\\\\buttons.vue",
+    "chunkName": "pages/components/buttons"
+  },
+  {
+    "name": "components-cards",
+    "path": "/components/cards",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\components\\\\cards.vue",
+    "chunkName": "pages/components/cards"
+  },
+  {
+    "name": "components-grid-system",
+    "path": "/components/grid-system",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\components\\\\grid-system.vue",
+    "chunkName": "pages/components/grid-system"
+  },
+  {
+    "name": "components-icons",
+    "path": "/components/icons",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\components\\\\icons.vue",
+    "chunkName": "pages/components/icons"
+  },
+  {
+    "name": "components-notifications",
+    "path": "/components/notifications",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\components\\\\notifications.vue",
+    "chunkName": "pages/components/notifications"
+  },
+  {
+    "name": "components-typography",
+    "path": "/components/typography",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\components\\\\typography.vue",
+    "chunkName": "pages/components/typography"
+  },
+  {
+    "name": "forms-components",
+    "path": "/forms/components",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\forms\\\\components.vue",
+    "chunkName": "pages/forms/components"
+  },
+  {
+    "name": "forms-elements",
+    "path": "/forms/elements",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\forms\\\\elements.vue",
+    "chunkName": "pages/forms/elements"
+  },
+  {
+    "name": "forms-validation",
+    "path": "/forms/validation",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\forms\\\\validation.vue",
+    "chunkName": "pages/forms/validation"
+  },
+  {
+    "name": "maps-google",
+    "path": "/maps/google",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\maps\\\\google.vue",
+    "chunkName": "pages/maps/google"
+  },
+  {
+    "name": "maps-vector",
+    "path": "/maps/vector",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\maps\\\\vector.vue",
+    "chunkName": "pages/maps/vector"
+  },
+  {
+    "name": "pages-timeline",
+    "path": "/pages/timeline",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\pages\\\\timeline.vue",
+    "chunkName": "pages/pages/timeline"
+  },
+  {
+    "name": "pages-user",
+    "path": "/pages/user",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\pages\\\\user.vue",
+    "chunkName": "pages/pages/user"
+  },
+  {
+    "name": "tables-paginated",
+    "path": "/tables/paginated",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\tables\\\\paginated.vue",
+    "chunkName": "pages/tables/paginated"
+  },
+  {
+    "name": "tables-regular",
+    "path": "/tables/regular",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\tables\\\\regular.vue",
+    "chunkName": "pages/tables/regular"
+  },
+  {
+    "name": "tables-sortable",
+    "path": "/tables/sortable",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\tables\\\\sortable.vue",
+    "chunkName": "pages/tables/sortable"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "V:\\\\ESPOCH\\\\CONCURSO_NACIONAL\\\\ARGON\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
